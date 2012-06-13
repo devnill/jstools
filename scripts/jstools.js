@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	var hue=1;
 	var starting_hue=Math.random()*360
-	var hue_increment=67; //because prime numbers are cool. --keeps an even distubution of colors
+	var hue_increment=43; //because prime numbers are cool. --keeps an even distubution of colors
 	var default_luminosity=.5;	
 	var default_saturation=1; 
 	var decay=10;
